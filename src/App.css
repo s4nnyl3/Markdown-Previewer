@@ -12,13 +12,15 @@
     font-size: 18px;
     background-color: #2f2f2f;
     resize: none;
-    color: white;
+    color: rgb(0, 255, 0);
     padding: 10px;
     overflow: auto;
     border-radius: 25px;
     border: none;
+    border: 1px solid
 
 }
+
 
 #preview {
     width: 100%;
@@ -26,11 +28,12 @@
     font-size: 18px;
     background-color: #2f2f2f;
     resize: none;
-    color: white;
+    color: rgb(43, 255, 0);
     padding: 10px;
     overflow: auto;
     border-radius: 25px;
     margin-top: 15px;
+    border: 1px solid;
 }
 
 img {
